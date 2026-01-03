@@ -80,21 +80,19 @@ Students and developers often face challenges during problem-solving practice:
 
 ---
 ### 📸 Screenshots
-# Bookmark Button on Problem Page
 
-Shows the bookmark button added to a coding problem page, allowing users to save the problem with one click.
+### 📌 Bookmark Button on Problem Page
+This snapshot shows the bookmark button added directly to a coding problem page, allowing users to save a problem with a single click when they get stuck.
 
-# Successful Bookmark Message
+### ✅ Successful Bookmark Message
+This snapshot displays the confirmation message shown after a problem is successfully bookmarked, giving clear feedback to the user.
 
-Shows a confirmation message after a problem is successfully bookmarked.
+### ⚠️ Duplicate Bookmark Warning
+This snapshot shows the warning message displayed when a user tries to bookmark a problem that has already been saved, preventing duplicate entries.
 
-# Duplicate Bookmark Warning
+### 🌐 Bookmarked Problems from Multiple Platforms
+This snapshot demonstrates that the extension works across multiple coding platforms, showing bookmarked problems from different websites in a single unified list with options to open or delete them.
 
-Shows a warning when the user tries to bookmark a problem that is already saved.
-
-# Bookmarked Problems from Multiple Platforms
-
-Shows the popup listing bookmarked problems from different platforms, with options to open or delete them.
 
 ## 💻 Tech Stack
 
