@@ -79,6 +79,22 @@ Students and developers often face challenges during problem-solving practice:
 - Seamlessly handles all coding websites
 
 ---
+### 📸 Screenshots
+# Bookmark Button on Problem Page
+
+Shows the bookmark button added to a coding problem page, allowing users to save the problem with one click.
+
+# Successful Bookmark Message
+
+Shows a confirmation message after a problem is successfully bookmarked.
+
+# Duplicate Bookmark Warning
+
+Shows a warning when the user tries to bookmark a problem that is already saved.
+
+# Bookmarked Problems from Multiple Platforms
+
+Shows the popup listing bookmarked problems from different platforms, with options to open or delete them.
 
 ## 💻 Tech Stack
 
